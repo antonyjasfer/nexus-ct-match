@@ -1,0 +1,32 @@
+Description
+Inclusion Criteria:
+
+Age ≥ 18 years
+Histologically confirmed lung cancer (any stage)
+Qualified for standard oncological management (surgery and/or systemic therapy)
+WHO/ECOG performance status 0-2
+Ability to perform cardiopulmonary exercise testing (CPET)
+Written informed consent
+Exclusion Criteria:
+
+Unstable ischemic heart disease
+Symptomatic cardiac arrhythmias
+Myocarditis or pericarditis
+Decompensated heart failure
+Active deep vein thrombosis
+Suspected aortic dissection or severe aortic stenosis
+Poorly controlled asthma
+Resting oxygen saturation ≤ 85% on room air
+Clinically relevant treatment-related adverse events above mild intensity (as applicable)
+Any medical condition that, in the investigator's opinion, precludes safe participation in CPET
+Withdrawal of informed consent
+Study Population
+Adult patients (≥18 years) with histologically confirmed lung cancer (any stage) and WHO/ECOG performance status 0-2, treated with standard oncological management in a tertiary university hospital and undergoing cardiopulmonary exercise testing before treatment initiation and after the early phase of therapy or surgery.
+Ages Eligible for Study 
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No
+Sampling Method
+Non-Probability Sample

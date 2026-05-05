@@ -1,0 +1,49 @@
+{
+    "patient_id": "P001",
+    "demographics": {
+        "age": 62,
+        "sex": "Male",
+        "weight_kg": 78,
+        "height_cm": 175
+    },
+    "diagnoses": [
+        {
+            "condition": "Non-Small Cell Lung Cancer",
+            "icd10": "C34.1",
+            "stage": "IIIB",
+            "diagnosis_date": "2025-11-15",
+            "histology": "Adenocarcinoma"
+        }
+    ],
+    "labs": {
+        "egfr_mutation": "L858R positive",
+        "pdl1_expression": "85%",
+        "hemoglobin": 12.5,
+        "creatinine": 1.1,
+        "alt": 28,
+        "ast": 32,
+        "wbc": 6800,
+        "platelets": 210000
+    },
+    "medications": [
+        "Pembrolizumab",
+        "Metformin"
+    ],
+    "treatment_history": [
+        {
+            "treatment": "Pembrolizumab",
+            "type": "immunotherapy",
+            "start_date": "2026-01-10",
+            "end_date": "2026-03-15",
+            "response": "partial_response"
+        }
+    ],
+    "ecog_score": 1,
+    "comorbidities": [
+        "Type 2 Diabetes",
+        "Hypertension"
+    ],
+    "allergies": [
+        "Sulfa drugs"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "patient_id": "P004",
+    "demographics": {
+        "age": 55,
+        "sex": "Female",
+        "weight_kg": 70,
+        "height_cm": 168
+    },
+    "diagnoses": [
+        {
+            "condition": "Type 2 Diabetes Mellitus",
+            "icd10": "E11.9",
+            "stage": null,
+            "diagnosis_date": "2023-03-10"
+        }
+    ],
+    "labs": {
+        "hba1c": 7.2,
+        "glucose": 142,
+        "creatinine": 0.9,
+        "egfr": 85
+    },
+    "medications": [
+        "Metformin",
+        "Sitagliptin"
+    ],
+    "treatment_history": [],
+    "ecog_score": 0,
+    "comorbidities": [
+        "Hyperlipidemia"
+    ],
+    "allergies": []
+}

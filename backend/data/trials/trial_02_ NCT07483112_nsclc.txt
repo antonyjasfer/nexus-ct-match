@@ -1,0 +1,42 @@
+Description
+Inclusion Criteria:
+
+Age ≥18 years
+Written informed consent according to Swiss law and ICH/GCP regulations before inclusion and prior to any trial-specific procedures
+Histologically or cytologically confirmed NSCLC
+Advanced or recurrent NSCLC not amenable to curative treatment
+PD-L1 expression ≥50% (TPS) determined by an approved IHC test
+No actionable genetic alterations in genes such as EGFR, ALK, ROS1, HER2, BRAF, RET, MET, NTRK
+First-line palliative PD-1/PD-L1-targeted monotherapy at a 3-weekly schedule indicated per local investigator
+Willingness and ability to undergo study interventions
+ECOG performance status 0-2
+Adequate organ function:
+Hemoglobin ≥70 g/L, platelet count ≥50 G/L, granulocytes ≥1 G/L
+Bilirubin, ALT, AST ≤3 x ULN
+Glomerular filtration rate (Cockroft-Gault) ≥30 mL/min/1.73m²
+Measurable or evaluable disease per RECIST 1.1
+Patients with CNS metastases are eligible, provided there is no requirement for corticosteroids as therapy for CNS disease and no evidence of clinical progression
+Women with child-bearing potential use effective contraception (two independent methods), are not currently pregnant or lactating, and agree to not become pregnant during the trial treatment and during 3 months thereafter. A negative pregnancy test in either urine or blood is required for women with child-bearing potential before trial inclusion.
+Men who are not sterile agree to use contraceptive methods (condoms) or abstain from sexual intercourse during the trial treatment and 3 months thereafter.
+Exclusion Criteria:
+
+-History of malignancy, unless in remission for at least 3 years before inclusion with the exception of pT1-2 prostate cancer Gleason score <6, adequately treated cervical carcinoma in situ or localized non-melanoma skin cancer
+
+Adjuvant or additive systemic ICB treatment within 6 months prior to inclusion
+
+Systemic treatment with an antibiotic within 10 days of ICB treatment/HFD intervention start
+Concomitant immunosuppressive drugs including corticosteroids at a daily dose of ≥10mg prednisone equivalents, methotrexate, azathioprine, TNF-α inhibitors
+Concurrent treatment with other experimental drugs or other anticancer therapy
+Major surgical procedures within 14 days prior to inclusion as judged by the investigator
+Active autoimmune disease requiring systemic immunosuppressive treatment that is seen as contraindication for the use of PD-1/PD-L1-targeted monoclonal antibodies
+Uncontrolled diabetes mellitus
+Severe or uncontrolled cardiovascular disease
+Any other serious underlying medical, psychiatric, psychological, familial or geographical condition, which in the judgment of the investigator may interfere with the planned staging, treatment and follow-up, affect patient compliance or place the patient at high risk from treatment-related complications
+Had an allogeneic tissue/solid organ transplant
+Ongoing supplementation with OptiFibre® or another fiber supplement
+Ages Eligible for Study 
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No

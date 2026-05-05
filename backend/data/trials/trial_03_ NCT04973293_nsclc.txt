@@ -1,0 +1,31 @@
+Description
+Inclusion Criteria:
+
+Histologically or cytologically confirmed, previously untreated and surgically resectable non-small cell lung cancer (stage II-IIIA, patients with squamous cell carcinoma or EGFR mutation should not be included);
+Eastern Cooperative Oncology Group (ECOG) performance status 0-1;
+Satisfactory preoperative laboratory testing and adequate pulmonary function for surgery;
+Patients approve and sign the informed consent.
+Exclusion Criteria:
+
+Pancoast tumor, squamous cell carcinoma, large-cell carcinoma and sarcomatoid carcinoma;
+Patients with active autoimmune disease or history of autoimmune disease;
+Patients who have a condition requiring systemic treatment with either prednisone or other immunosuppressive medications;
+Patients with a history of symptomatic interstitial lung disease;
+History of allergy to study drug components;
+Women must not be pregnant or breast-feeding;
+Men with female partners that are not willing to use contraception;
+Patients who have received prior chemotherapy, anti-angiogenesis therapy and immunotherapy for this malignancy or for any other past malignancy;
+Patients who have received prior treatment for non-small cell lung cancer;
+Any mental or psychological condition which would not permit the patient to complete the study or understand the patient information;
+Patients who have major hemoptysis within the past 4 weeks, tumor has invasion or is close to great vessels;
+Patients with high risk of major bleeding;
+Patients who have arterial thrombotic events, esophageal varices, peptic ulcers, wounds or bone fractures;
+Patients who have prior malignancies;
+HIV, HBV, HCV infection or active pulmonary tuberculosis;
+Underlying medical conditions that, in the Investigator's opinion, will make the administration of study drug hazardous or obscure the interpretation of toxicity or adverse events.
+Ages Eligible for Study 
+18 Years to 75 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No

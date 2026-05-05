@@ -1,0 +1,46 @@
+{
+    "patient_id": "P002",
+    "demographics": {
+        "age": 45,
+        "sex": "Female",
+        "weight_kg": 65,
+        "height_cm": 162
+    },
+    "diagnoses": [
+        {
+            "condition": "Breast Cancer",
+            "icd10": "C50.9",
+            "stage": "IIA",
+            "diagnosis_date": "2025-09-20",
+            "histology": "Invasive Ductal Carcinoma",
+            "her2_status": "Positive",
+            "hr_status": "ER+/PR+"
+        }
+    ],
+    "labs": {
+        "her2_ihc": "3+",
+        "ki67": "35%",
+        "ca15_3": 45,
+        "hemoglobin": 11.8,
+        "creatinine": 0.9
+    },
+    "medications": [
+        "Trastuzumab",
+        "Pertuzumab",
+        "Letrozole"
+    ],
+    "treatment_history": [
+        {
+            "treatment": "Trastuzumab + Pertuzumab",
+            "type": "targeted_therapy",
+            "start_date": "2025-10-01",
+            "end_date": null,
+            "response": "ongoing"
+        }
+    ],
+    "ecog_score": 0,
+    "comorbidities": [
+        "Osteoporosis"
+    ],
+    "allergies": []
+}

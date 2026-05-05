@@ -1,0 +1,45 @@
+{
+    "patient_id": "P003",
+    "demographics": {
+        "age": 34,
+        "sex": "Male",
+        "weight_kg": 82,
+        "height_cm": 180
+    },
+    "diagnoses": [
+        {
+            "condition": "Acute Myeloid Leukemia",
+            "icd10": "C92.0",
+            "stage": null,
+            "diagnosis_date": "2026-02-10",
+            "cytogenetics": "FLT3-ITD positive, NPM1 wild-type"
+        }
+    ],
+    "labs": {
+        "wbc": 45000,
+        "blasts": "18%",
+        "hemoglobin": 8.2,
+        "platelets": 45000,
+        "creatinine": 1.3,
+        "bilirubin": 1.8,
+        "ldh": 850
+    },
+    "medications": [
+        "Azacitidine",
+        "Venetoclax"
+    ],
+    "treatment_history": [
+        {
+            "treatment": "Azacitidine + Venetoclax",
+            "type": "chemotherapy",
+            "start_date": "2026-02-15",
+            "end_date": null,
+            "response": "ongoing"
+        }
+    ],
+    "ecog_score": 1,
+    "comorbidities": [],
+    "allergies": [
+        "Penicillin"
+    ]
+}

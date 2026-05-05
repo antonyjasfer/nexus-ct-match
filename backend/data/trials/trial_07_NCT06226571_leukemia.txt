@@ -1,0 +1,28 @@
+Description
+Inclusion Criteria:
+
+Established, pathologically confirmed diagnosis of AML by World Health Organization 2022 criteria.
+Previously untreated AML and eligible to receive intensive chemotherapy.
+KMT2Ar, NPM1c, or NUP98r mutations identified by local laboratory prior to the first dose of SNDX-5613.
+Eastern Cooperative Oncology Group performance status ≤2 and ≤1 if >65 years old .
+Adequate liver, kidney, and cardiac function.
+Exclusion Criteria:
+
+Diagnosis of acute promyelocytic leukemia.
+Clinically active central nervous system leukemia (blasts detected in cerebrospinal fluid, radiographic or clinical signs and symptoms).
+Fridericia's corrected QT interval (QTcF) >450 milliseconds (average of triplicate), diagnosis or suspicion of Long QT syndrome or family history of Long QT syndrome.
+Any gastrointestinal issue of the upper gastrointestinal tract that might affect oral drug absorption or ingestion.
+Cirrhosis with a Child-Pugh score of B or C.
+Any of the following within the 6 months prior to study entry: myocardial infarction, uncontrolled/unstable angina, congestive heart failure (New York Heart Association Classification Class ≥II), life-threatening, uncontrolled arrhythmia, cerebrovascular accident, or transient ischemic attack.
+Hepatitis B, Hepatitis C, or HIV-positive with detectable viral load.
+Documented active, uncontrolled infection.
+Uncontrolled disseminated intravascular coagulation.
+Lactating/breast feeding or pregnant.
+Use of prohibited concomitant chemotherapy, radiation therapy, or immunotherapy.
+Use of strong CYP3A4 inducers or inhibitors (except for Itraconazole, Ketoconazole, Posaconazole, or Voriconazole).
+Ages Eligible for Study 
+18 Years to 75 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No

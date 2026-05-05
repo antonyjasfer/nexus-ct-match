@@ -1,0 +1,40 @@
+Description
+Inclusion Criteria:
+
+Participants must have a histologically or cytologically confirmed diagnosis of colonic or rectal adenocarcinoma, with at least one measurable lesion meeting RECIST v1.1 criteria (i.e., a target lesion with a longest diameter ≥10 mm on spiral CT scan, or a lymph node with a short axis ≥15 mm).
+Claudin18.2 expression must be confirmed as positive in tumor tissue by immunohistochemistry (IHC).
+Disease progression following standard treatments, including prior administration of fluoropyrimidines, irinotecan, and oxaliplatin. Disease progression may occur during or after treatment. Prior molecular targeted therapies are allowed.
+ECOG performance status of 0 to 1.
+Expected survival of at least 6 months.
+Toxicities related to prior antitumor treatments must have resolved to baseline or ≤ Grade 1 (except for residual alopecia); peripheral neurotoxicity ≤ Grade 2 is acceptable. The minimum washout period is 4 weeks for chemotherapy and immunotherapy, and 2 weeks for targeted therapy.
+Adequate organ function, defined as follows:
+
+Hematologic function: Absolute neutrophil count (ANC) ≥ 1.5 × 10^9/L, platelet count ≥ 75 × 10^9/L, and hemoglobin ≥ 9 g/dL. No blood transfusions, granulocyte colony-stimulating factor (G-CSF), thrombopoietin (TPO), or erythropoietin (EPO) allowed within 14 days prior to hematology testing.
+Hepatic function: Total bilirubin (TBIL) < 1.5 × upper limit of normal (ULN); AST and ALT < 2.5 × ULN. For patients with Gilbert's syndrome, TBIL < 2 × ULN. For patients with liver metastases, AST and ALT must be < 5 × ULN.
+Renal function: Serum creatinine ≤ 1.5 × ULN; or if > 1.5 × ULN, creatinine clearance (CrCl) ≥ 60 mL/min as calculated by the Cockcroft-Gault formula.
+Coagulation function: Prothrombin time (PT) and activated partial thromboplastin time (APTT) < 1.5 × ULN; international normalized ratio (INR) < 1.5 or within the therapeutic range if on anticoagulation therapy.
+Participants of childbearing potential must agree to use effective contraception during the study period.
+Participants must have adequate comprehension and voluntarily sign the informed consent form.
+Willingness to comply with all study-related procedures, including scheduled visits, drug administration, laboratory assessments, and other protocol requirements.
+Exclusion Criteria:
+
+Tumor-related emergencies requiring immediate intervention, such as malignant pericardial effusion or cardiac tamponade, superior vena cava syndrome, or spinal cord compression.
+Clinically significant cardiovascular disease, including:
+
+Documented cardiovascular events within the past 6 months, such as myocardial infarction, angina, heart failure, severe arrhythmias, or history of angioplasty, stent implantation, or coronary artery bypass grafting (CABG);
+Prolonged QT/QTcF interval with clinical significance (QT/QTcF > 470 ms in females or > 450 ms in males).
+Clinically significant bleeding disorders or coagulopathies, such as hemophilia.
+Active infections including HIV, syphilis, or active hepatitis B or C:
+
+Hepatitis B: HBV-DNA ≥ 1000 IU/mL;
+Hepatitis C: Positive HCV RNA with abnormal liver function.
+History of involuntary psychiatric hospitalization due to mental illness or other psychiatric disorders deemed unsuitable for treatment by the investigator.
+Presence of autoimmune diseases or chronic use of immunosuppressive agents or corticosteroids.
+Poor medication compliance or inability to adhere to the treatment protocol.
+Any other condition that, in the opinion of the investigator, warrants exclusion from the study.
+Ages Eligible for Study 
+18 Years to 70 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No

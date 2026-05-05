@@ -1,0 +1,35 @@
+Description
+Inclusion Criteria:
+
+voluntarily sign an informed consent form in writing.
+Age ≥18 years and ≤75 years, both male and female are eligible.
+Expected survival ≥ 3 months.
+Eastern Cooperative Oncology Group (ECOG) Performance Status score of 0 or 1.
+Can provide pathological paraffin section detection targets (within 3 years prior to signing the informed consent form).
+According to the RECIST v1.1 criteria for the evaluation of solid tumors, there must be at least one measurable lesion, and the longest diameter of the lesions assessed by CT or MRI at baseline must be ≥ 10 mm (excluding lymph nodes, for which the short diameter must be ≥ 15 mm).
+Advanced pancreatic cancer confirmed by histology or cytology, with progression after second-line or later standard treatment, or intolerance to standard treatment, or no standard treatment available. The definition of intolerance: according to CTCAE v5.0, grade ≥IV hematological toxicity or grade ≥III non-hematological toxicity or grade ≥II damage to major organs such as heart, liver, and kidney occurred during treatment. The definition of treatment failure: disease progression (PD) during treatment or recurrence after treatment (including postoperative recurrence).
+Apheresis or venous blood collection venous access can be established, and there are no other contraindications to blood cell separation.
+Has adequate organ and bone marrow function, defined as follows: Blood routine: Neutrophil count (NEUT#) ≥1.0×10^9/L Platelet count (PLT) ≥70×10^9/L Hemoglobin concentration ≥80g/L Liver function: For subjects without liver metastasis: Aspartate aminotransferase (AST) ≤2.5× upper limit of normal (ULN) Alanine aminotransferase (ALT) ≤2.5× ULN Total bilirubin (TBIL) ≤1.5× ULN For subjects with liver metastasis: AST ≤5× ULN ALT ≤5× ULN For subjects with liver metastasis or Gilbert's syndrome: Total bilirubin (TBIL) ≤2.5× ULN Renal function: Creatinine clearance rate (CCR) ≥50 mL/min Coagulation function: International normalized ratio (INR) ≤1.5× ULN Activated partial thromboplastin time (APTT) ≤1.5× ULN Coagulation function in subjects with liver metastasis: INR ≤2× ULN APTT ≤2× ULN.
+During the study period and within 6 months after the end of dosing, subjects with childbearing potential (both male and female) must use effective medical contraception measures. Female subjects of childbearing potential must undergo a pregnancy test within 72 hours before the first dosing, and the result must be negative.
+Exclusion Criteria:
+
+Has active central nervous system (CNS) metastasis (except for those treated and stable).
+HIV positive, HBsAg positive with positive Hepatitis B virus (HBV) DNA copy number (greater than the lower limit of detection), Hepatitis C virus (HCV) antibody positive and HCV RNA positive, syphilis non-treponemal antibody (RPR or TRUST) positive.
+Has a mental or psychological disorder that cannot cooperate with treatment and efficacy evaluation.
+Subjects with severe autoimmune diseases who have been long-term users of immunosuppressants.
+Within 14 days before enrollment, there is an active infection or uncontrollable infection that requires systemic treatment.
+Any unstable systemic diseases (including but not limited to): active infection (except for localized infection); unstable angina; cerebral ischemia or cerebral stroke (within 6 months of screening); myocardial infarction (within 6 months of screening); congestive heart failure (New York Heart Association (NYHA) class ≥ III); severe arrhythmia requiring medication treatment; heart disease requiring treatment or uncontrolled hypertension after treatment (blood pressure > 160 mmHg/100 mmHg).
+Combined with dysfunction of important organs such as lungs, brain, and kidneys.
+Within 4 weeks before receiving cell therapy, the subject has undergone major surgery or serious trauma, or is expected to undergo major surgery during the study period.
+Within 1-2 weeks or 5 half-lives (whichever is shorter) before apheresis, the subject has received any systemic chemotherapy, immunotherapy, or small molecule targeted therapy.
+Received chimeric antigen receptor-modified T cell (CAR-T), T-cell receptor engineered T cells (TCR-T) therapy within the past 6 months.
+Severe allergies or a history of allergies.
+Subjects who require anticoagulant therapy.
+Pregnant or lactating women, or those who plan to become pregnant within six months (applicable to both men and women).
+The researcher believes that there are other reasons why the subject cannot be included in the treatment.
+Ages Eligible for Study 
+18 Years to 75 Years (Adult,  Older Adult )
+Sexes Eligible for Study 
+All
+Accepts Healthy Volunteers 
+No

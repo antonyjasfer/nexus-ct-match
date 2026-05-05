@@ -1,0 +1,28 @@
+Description
+Inclusion Criteria:
+
+Information to the patient and signed informed consent;
+Women aged ≥18 years;
+Breast conserving surgery;
+Invasive adenocarcinoma (except classic invasive lobular carcinoma);
+TNM (Tumor, Nodes, Metastasis) pathologic stage pT1-3 and pN1-3a M0, with indication of lymphatic drainage according to institutional protocol;
+Eastern Cooperative Oncology Group (ECOG) 0 -1;
+Minimum microscopic margin of non-cancerous tissue of 2 mm (excluding deep margin if in the deep fascia);
+No previous breast or mediastinal radiotherapy;
+No hematogenous metastases;
+Ability to carry out long-term follow-up;
+Exclusion Criteria:
+
+Previous local irradiation;
+Concomitant chemotherapy. Concomitance with trastuzumab or hormone blockade will be allowed;
+Histology of metaplastic carcinoma;
+History of another neoplasm: non-melanoma skin cancer, carcinoma in situ of the uterine cervix. Another neoplasm treated with curative intent and without evidence of disease in the last 5 years will be allowed.
+Diagnosis of autoimmune and connective tissue diseases;
+Diagnosis of genetic alterations in cell repair genes (Ex: Fanconi anemia, ataxia teleangiectasia);
+Indication of internal breast irradiation.
+Ages Eligible for Study 
+18 Years and older (Adult,  Older Adult )
+Sexes Eligible for Study 
+Female
+Accepts Healthy Volunteers 
+No
